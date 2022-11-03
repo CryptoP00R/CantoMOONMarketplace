@@ -1,16 +1,19 @@
 [
   {
-    "Name" : "CantoPunks",
+    "Name" : "Canto Long Necks",
+    "Address" : "0x92E706c6B6E14cE648e353DE1B5a26D7EF8C1A6f",
+    "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif",
+    "Description" : "The $Canto Longnecks Herd | Meep with us: http://discord.gg/longnecks | Artist: @grayvmatter (Mint in website",
+    "Website" : "https://www.cantolongnecks.com",
+    "Twitter" : "https://twitter.com/cantolongnecks"
+  },
+  {
+    "Name" : "Canto Punks ",
     "Address" : "0x92E706c6B6E14cE648e353DE1B5a26D7EF8C1A6f",
     "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif"
   },
   {
-    "Name" : "CanToes",
-    "Address" : "0x92E706c6B6E14cE648e353DE1B5a26D7EF8C1A6f",
-    "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif"
-  },
-  {
-    "Name" : "CantoRockets",
+    "Name" : "Canto Rockets",
     "Address" : "0x92E706c6B6E14cE648e353DE1B5a26D7EF8C1A6f",
     "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif"
   },
