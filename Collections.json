@@ -1,7 +1,7 @@
 [
   {
     "Name" : "Canto Long Necks",
-    "Address" : "0xC0C73CcFEE66eb400acCee23Fe70369186e4D3C9",
+    "Address" : "0x92E706c6B6E14cE648e353DE1B5a26D7EF8C1A6f",
     "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif",
     "Description" : "The $Canto Longnecks Herd | Meep with us: http://discord.gg/longnecks | Artist: @grayvmatter (Mint in website",
     "Website" : "https://www.cantolongnecks.com",
@@ -10,28 +10,12 @@
   },
   {
     "Name" : "Canto Punks ",
-    "Address" : "0x92E706c6B6E14cE648e353DE1B5a26D7EF8C1A6f",
+    "Address" : "0x95ec3fead1a8c4d02d89ff21e2508c201f535f4a",
     "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif",
     "Description" : "The $Canto Longnecks Herd | Meep with us: http://discord.gg/longnecks | Artist: @grayvmatter (Mint in website",
     "Website" : "https://www.cantolongnecks.com",
     "Twitter" : "https://twitter.com/cantolongnecks",
     "Banner" : "https://media.discordapp.net/attachments/771433993744678972/1019310420214947971/1500x500.png"
     
-  },
-  {
-    "Name" : "Canto Rockets",
-    "Address" : "0x92E706c6B6E14cE648e353DE1B5a26D7EF8C1A6f",
-    "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif"
-  },
-  {
-    "Name" : "LongNecks",
-    "Address" : "0x0x24e94F8d5Eb1978Ccc5f194F57cDb755E161EaC0123",
-    "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif"
-  },
-  {
-    "Name" : "Test1",
-    "Address" : "0x24e94F8d5Eb1978Ccc5f194F57cDb755E161EaC0",
-    "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif"
   }
-
   ]
