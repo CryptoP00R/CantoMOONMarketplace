@@ -6,10 +6,7 @@
     "Description" : "The $Canto Longnecks Herd | Meep with us: http://discord.gg/longnecks | Artist: @grayvmatter",
     "Website" : "https://www.cantolongnecks.com",
     "Twitter" : "https://twitter.com/cantolongnecks",
-    "Banner" : "https://media.discordapp.net/attachments/771433993744678972/1019310420214947971/1500x500.png",
-    "ImagePrefix" : "https://bafybeidtngv5mca4hzz7idrzi3vgl7zlt5cph2ibe5irnsmq25ysdhfbeq.ipfs.dweb.link/",
-    "ImageSuffix" : ".gif",
-    "TokenName" : "Canto Longneck #"
+    "Banner" : "https://media.discordapp.net/attachments/771433993744678972/1019310420214947971/1500x500.png"
   },
   {
     "Name" : "CanToes",
@@ -18,11 +15,7 @@
     "Description" : "4444 CanToe NFTs roaming the $Canto Network(🦶,🦶) #Canto #NFT #feetworship",
     "Website" : "https://cantoe.com",
     "Twitter" : "https://twitter.com/CanToeNFT",
-    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1019933835787518063/1500x500.jpg",
-    "ImagePrefix" : "https://bafybeidtngv5mca4hzz7idrzi3vgl7zlt5cph2ibe5irnsmq25ysdhfbeq.ipfs.dweb.link/",
-    "ImageSuffix" : ".gif",
-    "TokenName" : "Canto Longneck #"
-    
+    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1019933835787518063/1500x500.jpg"
   },
   {
     "Name" : "CanToadz",
@@ -31,22 +24,15 @@
     "Description" : "Mint on cantoadz.com",
     "Website" : "https://www.cantoadz.com",
     "Twitter" : "https://twitter.com/CanToadz",
-    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034454939973472436/1500x500.jpg",
-    "ImagePrefix" : "https://bafybeidtngv5mca4hzz7idrzi3vgl7zlt5cph2ibe5irnsmq25ysdhfbeq.ipfs.dweb.link/",
-    "ImageSuffix" : ".gif",
-    "TokenName" : "Canto Longneck #"
+    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034454939973472436/1500x500.jpg"
   },
   {
-    "Name" : "Canto Punks/Matrix ",
+    "Name" : "Canto Punks ",
     "Address" : "0xbb51bdabedf302e9dea7938f1eceb9f705229fd5",
     "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif",
     "Description" : "",
     "Website" : "https://nft.cantoswap.fi",
     "Twitter" : "",
-    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif",
-    "ImagePrefix" : "https://bafybeidtngv5mca4hzz7idrzi3vgl7zlt5cph2ibe5irnsmq25ysdhfbeq.ipfs.dweb.link/",
-    "ImageSuffix" : ".gif",
-    "TokenName" : "Canto Longneck #"
-    
+    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif"   
   }
   ]
