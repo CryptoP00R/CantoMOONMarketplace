@@ -6,7 +6,8 @@
     "Description" : "The $Canto Longnecks Herd | Meep with us: http://discord.gg/longnecks | Artist: @grayvmatter",
     "Website" : "https://www.cantolongnecks.com",
     "Twitter" : "https://twitter.com/cantolongnecks",
-    "Banner" : "https://media.discordapp.net/attachments/771433993744678972/1019310420214947971/1500x500.png"
+    "Banner" : "https://media.discordapp.net/attachments/771433993744678972/1019310420214947971/1500x500.png",
+    "Suffix" : ".gif"
   },  
   {
     "Name" : "Canto Waifus ",
@@ -15,7 +16,9 @@
     "Description" : "https://discord.com/invite/byanvXgASU",
     "Website" : "http://canto-waifus.xyz",
     "Twitter" : "https://twitter.com/xwaveart",
-    "Banner" : "https://cdn.discordapp.com/attachments/917248220525101096/1039433382720970772/unknown.png"   
+    "Banner" : "https://cdn.discordapp.com/attachments/917248220525101096/1039433382720970772/unknown.png",
+    "Suffix" : ".jpg"   
+    
   },
   {
     "Name" : "CanToes",
@@ -24,7 +27,8 @@
     "Description" : "4444 CanToe NFTs roaming the $Canto Network(🦶,🦶) #Canto #NFT #feetworship",
     "Website" : "https://cantoe.com",
     "Twitter" : "https://twitter.com/CanToeNFT",
-    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1019933835787518063/1500x500.jpg"
+    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1019933835787518063/1500x500.jpg",
+    "Suffix" : ".png" 
   },
   {
     "Name" : "CanToadz",
@@ -33,7 +37,8 @@
     "Description" : "Mint on cantoadz.com",
     "Website" : "https://www.cantoadz.com",
     "Twitter" : "https://twitter.com/CanToadz",
-    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034454939973472436/1500x500.jpg"
+    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034454939973472436/1500x500.jpg",
+    "Suffix" : ".gif" 
   },
   {
     "Name" : "Canto Punks ",
@@ -42,6 +47,7 @@
     "Description" : "",
     "Website" : "https://nft.cantoswap.fi",
     "Twitter" : "",
-    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif"   
+    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif",
+    "Suffix" : ".png" 
   }
   ]
