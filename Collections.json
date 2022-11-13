@@ -8,7 +8,17 @@
     "Twitter" : "https://twitter.com/cantolongnecks",
     "Banner" : "https://media.discordapp.net/attachments/771433993744678972/1019310420214947971/1500x500.png",
     "Suffix" : ".gif"
-  },  
+  },
+  {
+    "Name" : "Amplice GHOULS",
+    "Address" : "0x81996BD9761467202c34141B63B3A7F50D387B6a",
+    "Image" : "https://ghlsprod.s3.amazonaws.com/images/796.png",
+    "Description" : "",
+    "Website" : "",
+    "Twitter" : "",
+    "Banner" : "https://ghlsprod.s3.amazonaws.com/images/796.png",
+    "Suffix" : ".png"
+  },   
   {
     "Name" : "Canto Waifus ",
     "Address" : "0x1371c76e09de58d15fc15a319e71f8da2f62cf7b",
