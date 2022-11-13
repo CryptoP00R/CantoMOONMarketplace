@@ -49,5 +49,15 @@
     "Twitter" : "",
     "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1034141191400333402/punkgi.gif",
     "Suffix" : ".png" 
+  },
+  {
+  "Name" : "Matrix Key",
+  "Address" : "0xcbd058b9a6d48f8caef2ebbd1e5977514606941f",
+  "Image" : "https://cdn.discordapp.com/attachments/995443293280292924/1033608652512309378/matrix.gif",
+  "Description" : "When you pair a CantoPunk with a key the pair will earn 30 $MATRIX per day.",
+  "Website" : "",
+  "Twitter" : "",
+  "Banner" : "https://cdn.discordapp.com/attachments/995443293280292924/1033608652512309378/matrix.gif",
+  "Suffix" : ".gif" 
   }
   ]
