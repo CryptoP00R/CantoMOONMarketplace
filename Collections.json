@@ -41,6 +41,16 @@
     "Suffix" : ".png" 
   },
   {
+    "Name" : "CANTO OG COLLECTION",
+    "Address" : "0x1379b2dFa9918F302B6f74A26360fa6C9bF297f9",
+    "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1019933836051742750/PCB2oeD3_400x400.jpg",
+    "Description" : "When Canto went live, you were there Anon, and this is your proof. This is the CANTO OG Collection: One of the very first NFT collections minted on Canto, to celebrate the true OGs.",
+    "Website" : "https://ogcantonft.xyz",
+    "Twitter" : "twitter.com/CantoOgs",
+    "Banner" : "https://cdn.discordapp.com/attachments/771433993744678972/1019933835787518063/1500x500.jpg",
+    "Suffix" : ".svg" 
+  },
+  {
     "Name" : "CanToadz",
     "Address" : "0x61720daf21641487e7cc3c71dd3583b8ce2b8d0a",
     "Image" : "https://cdn.discordapp.com/attachments/771433993744678972/1034454939730182194/uZBpSYPW_400x400.jpg",
@@ -61,13 +71,13 @@
     "Suffix" : ".png" 
   },
   {
-  "Name" : "Matrix Key",
-  "Address" : "0xcbd058b9a6d48f8caef2ebbd1e5977514606941f",
-  "Image" : "https://cdn.discordapp.com/attachments/995443293280292924/1033608652512309378/matrix.gif",
-  "Description" : "When you pair a CantoPunk with a key the pair will earn 30 $MATRIX per day.",
-  "Website" : "",
-  "Twitter" : "",
-  "Banner" : "https://cdn.discordapp.com/attachments/995443293280292924/1033608652512309378/matrix.gif",
-  "Suffix" : ".gif" 
+    "Name" : "Matrix Key",
+    "Address" : "0xcbd058b9a6d48f8caef2ebbd1e5977514606941f",
+    "Image" : "https://cdn.discordapp.com/attachments/995443293280292924/1033608652512309378/matrix.gif",
+    "Description" : "When you pair a CantoPunk with a key the pair will earn 30 $MATRIX per day.",
+    "Website" : "",
+    "Twitter" : "",
+    "Banner" : "https://cdn.discordapp.com/attachments/995443293280292924/1033608652512309378/matrix.gif",
+    "Suffix" : ".gif" 
   }
   ]
