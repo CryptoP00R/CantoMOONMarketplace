@@ -10,6 +10,16 @@
     "Suffix" : ".gif"
   },
   {
+    "Name" : "Cantillionaires",
+    "Address" : "0xa31b1531489edf96a31ea2de5ef252be89038c68",
+    "Image" : "https://cdn.discordapp.com/attachments/917248220525101096/1046950507031302215/image.png",
+    "Description" : "The Cantillionaires, a representation of our web3 society on Canto Public.",
+    "Website" : "http://www.cantillionaires.com",
+    "Twitter" : "https://twitter.com/Cantillionaires",
+    "Banner" : "https://cdn.discordapp.com/attachments/917248220525101096/1046950548731080714/image.png",
+    "Suffix" : ".gif"
+  },
+  {
     "Name" : "Wombat Jams",
     "Address" : "0x79cb916add1dcb55049a610fed35dd60ad30d219",
     "Image" : "https://images.squarespace-cdn.com/content/v1/637d378abbb6fc20d1565e7f/d9e21fb4-e2bb-4178-89a1-e9e765ea4f2a/Album+Cover+TSP-01-01-01.png?format=500w",
@@ -18,7 +28,7 @@
     "Twitter" : "",
     "Banner" : "https://images.squarespace-cdn.com/content/v1/637d378abbb6fc20d1565e7f/d9e21fb4-e2bb-4178-89a1-e9e765ea4f2a/Album+Cover+TSP-01-01-01.png?format=500w",
     "Suffix" : ".png"
-  },   
+  },    
   {
     "Name" : "Amplice GHOULS",
     "Address" : "0x81996bd9761467202c34141b63b3a7f50d387b6a",
