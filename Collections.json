@@ -18,6 +18,15 @@
     "Twitter" : "https://twitter.com/Cantillionaires",
     "Banner" : "https://cdn.discordapp.com/attachments/917248220525101096/1046950548731080714/image.png",
     "Suffix" : ".gif"
+  },  {
+    "Name" : "OG CantoPunks",
+    "Address" : "0x429f76a0a405af14591958efff22cd4d6003215a",
+    "Image" : "https://pbs.twimg.com/media/Fif8SP8XkAAM0hN?format=png&name=small",
+    "Description" : "The OG CantoPunk Collection",
+    "Website" : "https://cantopunks.xyz/mint",
+    "Twitter" : "https://twitter.com/CantoPunks_",
+    "Banner" : "https://pbs.twimg.com/media/Fif8SP8XkAAM0hN?format=png&name=small",
+    "Suffix" : ".png"
   },
   {
     "Name" : "Wombat Jams",
