@@ -10,6 +10,16 @@
     "Suffix" : ".gif"
   },
   {
+    "Name" : "Shnoises",
+    "Address" : "0x619696AF6b243F067f468418d28622A586Baa12d",
+    "Image" : "https://cantomoon.xyz/images/0x619696AF6b243F067f468418d28622A586Baa12d/1.png",
+    "Description" : "The $Canto Longnecks Herd | Meep with us: http://discord.gg/longnecks | Artist: @grayvmatter",
+    "Website" : "https://discord.gg/BHFfM89JGm",
+    "Twitter" : "https://twitter.com/Shnoises",
+    "Banner" : "https://cantomoon.xyz/images/0x619696AF6b243F067f468418d28622A586Baa12d/1.png",
+    "Suffix" : ".png"
+  },
+  {
     "Name" : "Cantillionaires",
     "Address" : "0xa31b1531489edf96a31ea2de5ef252be89038c68",
     "Image" : "https://cdn.discordapp.com/attachments/917248220525101096/1046950507031302215/image.png",
